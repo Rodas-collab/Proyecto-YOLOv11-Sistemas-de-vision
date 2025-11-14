@@ -1,0 +1,4 @@
+Debido a restricciones de espacio no es posible subir el dataset utilizado para el entrenamiento y validación del modelo.
+En la siguiente liga podran descargar las imagenes usadas en el dataset asi como un conjunto de imagenes adicionales utilizadas para probar el funcionamiento del modelo
+
+https://drive.google.com/drive/folders/1MZsI2vcF-iFOE0XxZNHF1m78vp3gUVk1?usp=drive_link
